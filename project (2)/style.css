@@ -1,0 +1,162 @@
+head {
+	background-color: #034f84 url(images/img01.gif) repeat-x;
+}
+body {
+	margin: 0;
+	padding: 0;
+	background:   #c6bcb6 url(images/img01.gif) repeat-x;
+	font: normal small Arial, Helvetica,sans-serif;
+	line-height: 1.8em;
+	color: #e0e2e4
+;
+  
+}
+h1 {
+ border-bottom-style:solid ;
+  border-bottom-color: #ffffff; 
+  margin: 5px;
+	padding: 5px;
+  font-family: sans-serif;
+	font-weight: normal;
+	color: #034f84;
+ 
+}
+
+h2 {
+	padding-left: 20px;
+	background: url(images/img07.gif) no-repeat left center;
+	font-size: 22px;
+  color:  #034f84;
+}
+
+h3 {
+	margin: 5px;
+  padding: 5px;
+	text-transform:full-width;
+	letter-spacing: 2px;
+	font-size: 22px;
+	font-weight: bold;
+  color: #000000;
+}
+ h4 {
+  border-top-style:solid;
+  border-top-color: #ffffff;
+  margin: 5px;
+  padding: 5px;
+  font-size:30px;
+  font-family: sans-serif;
+  font-weight: 700%;
+  color: #DC4D00;
+}
+h5{
+  color: #000000;
+  Text-align:center;
+  font-weight:300%;
+  font-size:20px;
+}
+p ~ ul {
+   list-style-type:none; 
+   background:none;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+a {
+	display:inline;
+  table-layout:fixed;
+  margin:30px;
+  padding:30px;
+	width: 50px;
+  text-decoration: none;
+	text-align:center;
+  table-layout:auto;
+  color:#ffffff
+}
+
+ul {
+  
+  list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#DC4D00;
+}
+
+li{
+  float:left:
+}
+
+
+li img{
+  max-width:400px;
+  max-height:350px;
+  list-style:table-row;
+  margin:center;
+  border-style:solid;
+  border-color: #000000;
+  border-width:5px;
+}
+li{ 
+  margin:10px;
+  margin-left: 15px;
+  margin-right: 25px;
+  font:sans-serif;
+  font-size: 17px;
+  color: #3b3a30;
+ 
+}
+ul, li{
+  align-self:left;
+  color: #000000;
+  font-size: 30px;
+
+}
+}
+table-frame{
+ border-color:#000000
+}
+th {  
+  border-color:#e65c00;
+  border-width: 10;
+}
+
+
+
+header {
+  align-content:center; 
+  border-bottom: 5px;
+  border-bottom-color:#ffffff
+}
+
+
+p {
+  margin-left: 25px;
+  margin-right: 25px;
+  font:sans-serif;
+  font-size: 25px;
+  color: #000000;  
+  text-align:left;
+  line-height:35px;
+}
+
+
+/* Wrapper */
+
